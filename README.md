@@ -24,14 +24,15 @@ Results
 -------
 
 1. Without SIMD instructions
-    
-2. Using AVX & AVX2
+![NOSIMD](/путь/к/изображению.jpg)
 
+2. Using AVX & AVX2
+![SIMD](/путь/к/изображению.jpg)
 
 CONCLUSION
 ----------
 As seen, an increase in 
-###fps is about 6 times.
+### fps is about 6 times.
 The result has been gotten using
 1.      __mm256 (8 32 single-precision float variables)
 2.      AVX & AVX2 instructions
