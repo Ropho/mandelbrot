@@ -23,10 +23,10 @@ Compile
 Results
 -------
 
-1. Without SIMD instructions
+### Without SIMD instructions
 ![NOSIMD](/NOSSE.png)
 
-2. Using AVX & AVX2
+### Using AVX & AVX2
 ![SIMD](/SSE.png)
 
 CONCLUSION
