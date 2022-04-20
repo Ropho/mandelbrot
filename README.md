@@ -24,7 +24,7 @@ Results
 -------
 
 ### Without SIMD instructions
-![NOSIMD](/NOSSE.pn)
+![NOSIMD](/NOSSE.png)
 
 ### Using AVX & AVX2
 ![SIMD](/SSE.png)
