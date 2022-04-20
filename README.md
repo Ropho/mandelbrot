@@ -24,10 +24,10 @@ Results
 -------
 
 1. Without SIMD instructions
-![NOSIMD](/путь/к/изображению.jpg)
+![NOSIMD](/NOSSE.png)
 
 2. Using AVX & AVX2
-![SIMD](/путь/к/изображению.jpg)
+![SIMD](/SSE.png)
 
 CONCLUSION
 ----------
