@@ -3,7 +3,7 @@ Mandelbrot optimizaton with SIMD instructions
 
 Usage
 -----------
-1.  Proceccor
+1.  Processor
     > AMD Ryzen 5 4500U
 2.  Instructions
     > AVX, AVX2
@@ -13,6 +13,22 @@ Usage
     > SFML
 5.  Compiler
     > GCC
+
+Controls
+--------
+1. Move up
+    >UP
+2. Move down
+    >DOWN
+3. Move left
+    >LEFT
+4. Move right
+    >RIGHT
+5. Zoom in
+    >PGUP
+6. Zoom out
+    >PGDOWN
+
 
 Compile
 -------
