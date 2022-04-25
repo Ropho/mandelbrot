@@ -27,7 +27,7 @@ Controls
 5. Zoom in
     >PGUP
 6. Zoom out
-    >PGDOWN
+    >PGDN
 
 
 Compile
